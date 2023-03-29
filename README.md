@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lou Zheng Hao</h1>
-<h3 align="center">I am an aspiring computer science student currently pursuing Bachelor of Digital Systems Security and Big Data. I am committed to expand my skills and seek career opportunities in the Data field.</h3>
+<h3 align="center">I am an aspiring computer science student currently pursuing Bachelor of Digital Systems Security and Big Data. I am committed to expand my skills and seek career opportunities in the Tech industry.</h3>
 
 - 📫 How to reach me **lou.zhenghao@outlook.com**
 
